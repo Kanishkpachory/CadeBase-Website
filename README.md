@@ -1,5 +1,4 @@
 # CadeBase-Website
-# CadeBase-Website
 
 ## Table of Contents
 - [About the Project](#about-the-project)
